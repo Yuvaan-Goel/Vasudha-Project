@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	background: #f12711;
+	/* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #f5af19, #f12711);
+	/* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #f5af19, #f12711);
+}
+
+.buttons {
+	background: green;
+	color: black;
+	border-radius: 20px;
+	height: 100px;
+	width: 100px;
+	vertical-align: center;
+}
+
+p {
+	color: black;
+	font-size: 14px;
+}
+
+b {
+	font-size: 18px;
+}
